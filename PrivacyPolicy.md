@@ -8,7 +8,7 @@ This Privacy Policy outlines the information we do not collect, use, disclose, o
 
 2. Data Collection and Use
 Given the nature of Calculator AiO, we do not collect, use, store, or transfer any personal data of our users. The app performs all of its operations locally on your device.
-Data can be sent to us or any third-party entities but is strictly determined by the user of the Calculator AiO.
+Data cannot be sent to us or any third-party entities and is strictly stagnated by the user of the Calculator AiO.
 
 3. Device Permissions
 Our application requires some deveice  and user permissions for specific usage of Calculator AiO features.
